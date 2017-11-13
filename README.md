@@ -1,2 +1,5 @@
-# UEditor for Typecho
-Typecho下的编辑器
+#UEditor for Typecho  
+更新时间 2017年11月13日
+使用1.4.3.3版本
+更新了17年8月的补丁
+图片上传路径修改为/upload/image
