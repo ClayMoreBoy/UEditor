@@ -7,7 +7,7 @@
  * @package UEditor
  * @author 系统笔记
  * @version 3.0
- * @link http://www.osblog.cn
+ * @link http://www.osblog.cn/ueditor.html
  *
  * @date 2017-11-13
  */
